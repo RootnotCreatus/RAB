@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "octavion",
+    "title": "Octavion",
+    "version": "1.6",
+    "description": "Pitch Shifter",
+    "delivery": "file",
+    "file_path": "./releases/octavion/Octavion_Installer.exe",
+    "external_url": "",
+    "sha256": "aaba3671dd91418f10c9a19da6f44b73b7c851615823714fc30ae79c2d8a3e14",
+    "platform": "Windows",
+    "note": "VST3 + Standalone"
+  }
+]
